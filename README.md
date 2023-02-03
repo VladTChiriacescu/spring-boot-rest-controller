@@ -1,6 +1,6 @@
 # Zuhlke Spring Framework Demos - Spring Boot
 
-## Description:
+## Description
 
 This Java project builds upon the Spring concepts presented in repositories:
 https://github.com/VladTChiriacescu/spring-framework-project1 and
@@ -12,7 +12,7 @@ It contains:
 Spring Boot can do between a configuration class and application properties stored in application.properties file.
 (ie. a configuration bean is instantiated by the framework with the field values provided in this properties file).
 
-## Note:
+## Note
 
 This project has been built while following the Udemy Masterclass on Spring Framework
 and Spring Boot 3 (this project is not a git clone of the Masterclass sources).
