@@ -8,7 +8,7 @@ https://github.com/VladTChiriacescu/spring-framework-project2
 
 It contains:
 1. 2 REST controllers built using Spring Boot 3.
-2. A Spring configuration component that showcases that automatic matching that
+2. A Spring configuration component that showcases the automatic matching that
 Spring Boot can do between a configuration class and application properties stored in application.properties file.
 (ie. a configuration bean is instantiated by the framework with the field values provided in this properties file).
 
